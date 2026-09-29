@@ -5,21 +5,24 @@
     <meta charset="utf-8" />
   </head>
   <body>
-    <img
-      src="/Users/lanichambers/Library/CloudStorage/OneDrive-GeorgiaGwinnettCollege/ITEC 2130/Profile pic.jpeg"
-    />
-    <h1>Lani Chambers</h1>
+    <div class="profile-header">
+      <img
+        src="/Users/lanichambers/Library/CloudStorage/OneDrive-GeorgiaGwinnettCollege/ITEC 2130/Profile pic.jpeg"
+        width="200"
+        height="200"
+      />
+      <h1 style="text-align: center">Lani Chambers</h1>
+    </div>
     <h1>Objective</h1>
     <p>
       To showcase a foundation in Information Technology and software
-      development, aiming to leverage problem-solving skills, hands-on
-      programming experience, and a passion for technology to contribute to
-      innovative software solutions. Driven to build scalable applications,
-      optimize technical workflows, and continuously expand expertise across
-      front-end and back-end development in a dynamic, collaborative
-      environment. Seeking an opportunity to apply analytical thinking, clean
-      code principles, and modern web frameworks to deliver impactful user
-      experiences and support business goals.
+      development, hands-on programming experience, and a passion for technology
+      to contribute to innovative software solutions. Driven to build scalable
+      applications, and continuously expand expertise across front-end and
+      back-end development in a dynamic, collaborative environment. Seeking an
+      opportunity to apply analytical thinking, clean code principles, and
+      modern web frameworks to deliver impactful user experiences and support
+      business goals.
     </p>
     <hr />
     <h1>Qualification</h1>

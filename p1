@@ -1,1 +1,92 @@
-
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Project 1</title>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <img
+      src="/Users/lanichambers/Library/CloudStorage/OneDrive-GeorgiaGwinnettCollege/ITEC 2130/Profile pic.jpeg"
+    />
+    <h1>Lani Chambers</h1>
+    <h1>Objective</h1>
+    <p>
+      To showcase a foundation in Information Technology and software
+      development, aiming to leverage problem-solving skills, hands-on
+      programming experience, and a passion for technology to contribute to
+      innovative software solutions. Driven to build scalable applications,
+      optimize technical workflows, and continuously expand expertise across
+      front-end and back-end development in a dynamic, collaborative
+      environment. Seeking an opportunity to apply analytical thinking, clean
+      code principles, and modern web frameworks to deliver impactful user
+      experiences and support business goals.
+    </p>
+    <hr />
+    <h1>Qualification</h1>
+    <ul>
+      <li>Communication and Management Skills</li>
+      <li>CompTIA Security+</li>
+      <li>Bachelor's Degree in Information Technology</li>
+      <li>Project and Team Collaboration</li>
+      <li>HTML/CSS</li>
+      <li>JavaScript</li>
+    </ul>
+    <h1>Job Experience</h1>
+    <table border="1">
+      <tr>
+        <caption>
+          Job Experience
+        </caption>
+        <th>Company</th>
+        <th>Position</th>
+        <th>Duration</th>
+      </tr>
+      <tr>
+        <td>Best Buy</td>
+        <td>IT Support</td>
+        <td>10 months</td>
+      </tr>
+      <tr>
+        <td>Hilton</td>
+        <td>Help Desk</td>
+        <td>15 months</td>
+      </tr>
+      <tr>
+        <td>Microsoft</td>
+        <td>Junior Developer</td>
+        <td>6 months</td>
+      </tr>
+    </table>
+    <h1>Projects</h1>
+    <ul>
+      <li>Web Application</li>
+      <li>Mobile Application</li>
+      <li>Database Design</li>
+      <li>API Development</li>
+    </ul>
+    <h1>Tools/Technologies</h1>
+    <ul>
+      <li>Node.js</li>
+      <li>SQL</li>
+      <li>Github</li>
+      <li>Version Control</li>
+      <li>OS(Windows/Mac)</li>
+      <li>VScode</li>
+    </ul>
+    <hr />
+    <h1>Social Media</h1>
+    <a href="https://www.linkedin.com/feed/">LinkedIn</a>
+    <h1>References</h1>
+    <p>
+      <b>Reference 1:</b><br />
+      Dr. Smithe<br />
+      Stanford University<br />
+      123-555-0987||hsmithe94@stanford.edu<br />
+      <br />
+      <b>Reference 2:</b><br />
+      Ms. Sheila Brown<br />
+      Senior Cloud Developer<br />
+      678-555-4321||28browns@outlook.com
+    </p>
+  </body>
+</html>
